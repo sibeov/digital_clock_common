@@ -1,0 +1,30 @@
+#+author: Sindre Bergsvik Øvstegård
+#+title: Digital Clock Common Library
+
+* Legal:
+    - Author:           Sindre Bergsvik Øvstegård
+    - Year:             2021
+    - Project:          Digial clock common Library
+    - Language:         VHDL
+    - Dependencies:     See Dependencies
+
+HDL CODE IS PROVIDED 'AS IS.' Sindre Bergsvik Øvstegård EXPRESSLY DISCLAIMS ANY
+WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL Sindre Bergsvik Øvstegård
+BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL
+DAMAGES, LOST PROFITS OR LOST DATA, HARM TO YOUR EQUIPMENT, COST OF
+PROCUREMENT OF SUBSTITUTE GOODS, TECHNOLOGY OR SERVICES, ANY CLAIMS
+BY THIRD PARTIES (INCLUDING BUT NOT LIMITED TO ANY DEFENSE THEREOF),
+ANY CLAIMS FOR INDEMNITY OR CONTRIBUTION, OR OTHER SIMILAR COSTS.
+
+IF YOU WANT TO USE OR IMPROVE UPON DESIGN, PLEASE FEEL FREE TO DO SO
+BUT PUT CREDIT TO ORIGINAL AUTHOR WHERE CREDIT IS DUE.
+
+* Intention:
+To dive deeper into VHDL and digital electronics. Goal is to implement workings of a digital clock.
+Mostly for fun and academic purposes. This is a library specific to the project containing some common, global
+variables and, maybe in the future, functions and procedures.
+
+* Dependencies
+    - None
